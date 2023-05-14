@@ -29,4 +29,6 @@ Praticar conceitos aprendidos em aula. Entre eles:
 - Manipulação de vetores e matrizes
 
 
-by [William Bierhals](https://github.com/will1Zera)
+by [Rodrigo Miller]([https://github.com/will1Zera](https://github.com/MILLER10100) and [William Bierhals](https://github.com/will1Zera)
+
+
